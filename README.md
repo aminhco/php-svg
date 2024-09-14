@@ -45,7 +45,7 @@ This package is available on [Packagist](https://packagist.org/packages/meyfa/ph
 Composer:
 
 ```bash
-composer require meyfa/php-svg
+composer require aminhco/php-svg
 ```
 
 This adds a dependency to your composer.json file. If you haven't already, setup autoloading for Composer dependencies
